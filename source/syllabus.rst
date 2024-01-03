@@ -1,4 +1,3 @@
----
 
 .. note::
     This page is generated using Restructured Text, and not a Jupyter Notebook.
